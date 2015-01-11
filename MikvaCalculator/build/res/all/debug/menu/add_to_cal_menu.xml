@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menu_item_add_to_cal"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="@string/add_to_cal"
+        android:showAsAction="ifRoom|withText">
+        
+    </item>
+
+</menu>
+
+<!-- From: file:/C:/Users/moshe/workspace/MikvaCalculator/res/menu/add_to_cal_menu.xml -->

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Миква калькулятор</string>
+    <string name="previous_flows">Предыдущие Потоки</string>
+    <string name="action_settings">Настройки</string>
+    <string name="opening_label">Если поток произошло сегодня, нажмите до или после захода солнца</string>
+    <string name="before_sunset">до заката</string>
+    <string name="after_sunset">после захода солнца</string>
+    <string name="calculate_before">Перед заходом солнца</string>
+    <string name="calculate_after">После заката</string>
+    <string name="after">после</string>
+    <string name="days">дней</string>
+    <string name="hefsek_label">Hefsek тахара будет</string>
+    <string name="mikva_label_past">Миква ночь</string>
+    <string name="hefsek_label_past">Hefsek тахара</string>
+    <string name="mikva_label">Миква ночь будет</string>
+    <string name="top_label">Выберите дату потока</string>
+    <string name="today_before_sunset">Перед заходом солнца</string>
+    <string name="today_after_sunset">После заката</string>
+    <string name="add_flow">Новый поток</string>
+    <string name="add_to_cal">Добавить в календарь</string>
+    <string name="delete_flow">Удалить поток</string>
+    <string name="day_thirty">День 30 является</string>
+    <string name="day_thirty_one">День 31 является</string>
+    <string name="day_thirty_past">День 30</string>
+    <string name="day_thirty_one_past">День 31</string>
+    <string name="add_to_calendar">Добавить Даты в календарь</string>
+    <string name="saw_blood">Дата Потоке</string>
+    <string name="hefsek">Hefsek Тахара</string>
+    <string name="mikva">Миква ночь</string>
+    <string name="thirty">День 30</string>
+    <string name="thirty_one">День 31</string>
+    <string name="haflaga">День интервала</string>
+    <string name="flow">День потока:</string>
+    <string name="flow_past">На следующий день потока</string>
+    <string name="click">Нажмите на дату, чтобы добавить его в календарь</string>
+     <string name="warning">Welcome to Mikva Calculator. To add a flow, click in the top right corner. Or just click OK. </string>
+
+</resources>

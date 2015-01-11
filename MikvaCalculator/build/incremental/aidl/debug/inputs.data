@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1410663333195 1735 a2e7145d2a39bde8acf1848f081e702da8192b0c C:\Users\moshe\workspace\MikvaCalculator\src\com\mkarmel\mikvacalculator\FlowPagerActivity.java
+1410663486889 242 84ad925ad114ac226b778cb090fa91ea6da3cff2 C:\Users\moshe\workspace\MikvaCalculator\src\com\mkarmel\mikvacalculator\AddFlowActivity.java
+1411328150232 1220 1bea4dbaadf1f4b6004b19b5f83612ada9179069 C:\Users\moshe\workspace\MikvaCalculator\src\com\mkarmel\mikvacalculator\WarningFragment.java
+1410664090787 244 40e5ea7e1cb0a3bce7e14a639fe341fde0f205c6 C:\Users\moshe\workspace\MikvaCalculator\src\com\mkarmel\mikvacalculator\FlowListActivity.java
+1410663075836 726 6e6884db298d6139b97c8296fee28952be35760c C:\Users\moshe\workspace\MikvaCalculator\src\com\mkarmel\mikvacalculator\SingleFragmentActivity.java
+1411328236572 6215 36ee866185f05603a3db5dcc5a01ffbd8208681c C:\Users\moshe\workspace\MikvaCalculator\src\com\mkarmel\mikvacalculator\FlowListFragment.java
+1410662953723 1836 d9f3397fa39eb6181e7ed46463c1b2f7d2fca5e7 C:\Users\moshe\workspace\MikvaCalculator\src\com\mkarmel\mikvacalculator\FlowJSONSerializer.java
+1411329256786 4484 ec28c6435e609eb7da1de9e4bc5cc9ef51600b78 C:\Users\moshe\workspace\MikvaCalculator\src\com\mkarmel\mikvacalculator\Flow.java
+1411328131226 2474 d8a4957538b57118c158d8db0c789975deb9589a C:\Users\moshe\workspace\MikvaCalculator\src\com\mkarmel\mikvacalculator\DatePickerFragment.java
+1411329271661 6592 67608ec6cc7e6340a3e2197d10a9afdecf1140f7 C:\Users\moshe\workspace\MikvaCalculator\src\com\mkarmel\mikvacalculator\AddFlowFragment.java
+1411266943097 4628 7652e482ebd278e70e34236917db92598705cff9 C:\Users\moshe\workspace\MikvaCalculator\src\com\mkarmel\mikvacalculator\ViewFlowFragment.java
+1410665279203 1309 2262e0dfe95fbdfdf2080e2faff5ef529718360f C:\Users\moshe\workspace\MikvaCalculator\src\com\mkarmel\mikvacalculator\FlowLab.java

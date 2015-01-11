@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculatrice Mikva</string>
+    <string name="previous_flows">flux précédentes</string>
+    <string name="action_settings">paramètres</string>
+    <string name="before_sunset">avant le coucher du soleil</string>
+    <string name="after_sunset">après le coucher du soleil</string>
+    <string name="calculate_before">avant le coucher du soleil</string>
+    <string name="calculate_after">après le coucher du soleil</string>
+    <string name="after">après</string>
+    <string name="days">journées</string>
+    <string name="hefsek_label">Le tahara de hefsek sera:</string>
+    <string name="mikva_label_past">Mikva nuit</string>
+    <string name="hefsek_label_past">Hefsek tahara</string>
+    <string name="mikva_label">Mikva nuit sera</string>
+    <string name="top_label">Choisissez la date de l\'écoulement</string>
+    <string name="today_before_sunset">avant le coucher du soleil</string>
+    <string name="today_after_sunset">après le coucher du soleil</string>
+    <string name="add_flow">nouveau débit</string>
+    <string name="add_to_cal">Ajouter au calendrier</string>
+    <string name="delete_flow">supprimer débit</string>
+    <string name="day_thirty">Jour 30 est</string>
+    <string name="day_thirty_one">Jour 31 est</string>
+    <string name="day_thirty_past">Jour 30</string>
+    <string name="day_thirty_one_past">Jour 30</string>
+    <string name="add_to_calendar">Ajouter dates au calendrier</string>
+    <string name="saw_blood">Date du débit</string>
+    <string name="hefsek">Hefsek Tahara</string>
+    <string name="mikva">Mikva Nuit</string>
+    <string name="thirty">Jour 30</string>
+    <string name="thirty_one">Jour 31</string>
+    <string name="haflaga">Jour de haflaga</string>
+    <string name="flow">Le jour de l\'écoulement est</string>
+    <string name="flow_past">Le jour de l\'écoulement</string>
+    <string name="click">Cliquer sur une date pour l\'ajouter au calendrier</string>
+     <string name="warning">Bienvenue à Mikvé Calculatrice. Pour ajouter un flux, cliquez dans le coin supérieur droit. Ou cliquez simplement sur OK.</string>
+
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculadora Mikva</string>
+    <string name="previous_flows">Los flujos anteriores</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="opening_label">Si un flujo que pasó hoy, haga clic antes o después de la puesta del sol:</string>
+    <string name="before_sunset">antes de la puesta del sol</string>
+    <string name="after_sunset">después de la puesta del sol</string>
+    <string name="calculate_before">Antes de la puesta del sol</string>
+    <string name="calculate_after">Después de la puesta del sol</string>
+    <string name="after">después</string>
+    <string name="days">día</string>
+    <string name="hefsek_label">El tahara hefsek será:</string>
+    <string name="mikva_label_past">Mikva noche :</string>
+    <string name="hefsek_label_past">Hefsek tahara :</string>
+    <string name="mikva_label">Mikva noche será:</string>
+    <string name="top_label">Elija la fecha del flujo</string>
+    <string name="today_before_sunset">Antes de la puesta del sol</string>
+    <string name="today_after_sunset">Después de la puesta del sol</string>
+    <string name="add_flow">nueva Flow</string>
+    <string name="add_to_cal">Añadir al calendario</string>
+    <string name="delete_flow">eliminar Flow</string>
+    <string name="day_thirty">Día 30 es:</string>
+    <string name="day_thirty_one">Día 31 es :</string>
+    <string name="day_thirty_past">Día 30 :</string>
+    <string name="day_thirty_one_past">Día 31 :</string>
+    <string name="add_to_calendar">Añadir fechas al calendario</string>
+    <string name="saw_blood">Fecha del flujo de</string>
+    <string name="hefsek">Hefsek Tahara</string>
+    <string name="mikva">Mikva Noche</string>
+    <string name="thirty">día 30</string>
+    <string name="thirty_one">día 31</string>
+    <string name="haflaga">Día de haflaga</string>
+    <string name="flow">El día del flujo es:</string>
+    <string name="flow_past">El día del flujo :</string>
+    <string name="click">Haga clic en una fecha para agregarla a la agenda</string>
+     <string name="warning">Bienvenido a MikvaCalculator. Para agregar un flujo, haga clic en la esquina superior derecha. O sólo haga clic en Aceptar.</string>
+
+</resources>

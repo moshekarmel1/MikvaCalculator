@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/moshe/workspace/MikvaCalculator/res/values-he/strings.xml -->
+    <string name="action_settings">הגדרות</string>
+    <string name="add_flow">זרימה חדש</string>
+    <string name="add_to_cal">הוסף ללוח שנה</string>
+    <string name="add_to_calendar">Add Dates to Calendar</string>
+    <string name="after_sunset"> אחרי השקיעה.</string>
+    <string name="app_name">מחשבון מקוה</string>
+    <string name="before_sunset"> לפני השקיעה.</string>
+    <string name="calculate_after">אחרי השקיעה</string>
+    <string name="calculate_before">לפני השקיעה</string>
+    <string name="click">לחץ על תאריך כדי להוסיף אותו ללוח השנה</string>
+    <string name="day_thirty">יום 30 הוא :</string>
+    <string name="day_thirty_one">יום 31 הוא :</string>
+    <string name="day_thirty_one_past">יום 31 :</string>
+    <string name="day_thirty_past">יום 30 :</string>
+    <string name="delete_flow">מחק זרימה</string>
+    <string name="flow">היום של הזרימה הוא:</string>
+    <string name="flow_past">היום של הזרימה הוא :</string>
+    <string name="haflaga">יום הפלגה</string>
+    <string name="hefsek">הפסק טהרה</string>
+    <string name="hefsek_label">ההפסק הטהרה תהיה:</string>
+    <string name="hefsek_label_past">הפסק טהרה :</string>
+    <string name="mikva">ליל המקוה</string>
+    <string name="mikva_label">ליל המקוה תהיה:</string>
+    <string name="mikva_label_past">ליל המקוה :</string>
+    <string name="previous_flows">תזרים קודם</string>
+    <string name="saw_blood">תאריך של הזרימה</string>
+    <string name="thirty">יום 30</string>
+    <string name="thirty_one">יום 31</string>
+    <string name="today_after_sunset">אחרי השקיעה</string>
+    <string name="today_before_sunset">לפני השקיעה</string>
+    <string name="top_label">בחר תאריך התזרים :</string>
+    <string name="warning">.ברוכים הבאים למחשבון המקוה. כדי להוסיף זרימה, לחץ בפינה הימנית העליונה. או פשוט לחץ על אישור</string>
+
+</resources>
