@@ -116,8 +116,7 @@ public class AddFlowFragment extends Fragment {
 	            diffInDays = figureOutDiff(isPreviousAfterSunset, mFlow.isBeforeSunset(), diffInDays);
 	            diffCal.add(Calendar.DATE, diffInDays);
 	            mFlow.setHaflaga(diffCal.getTime());
-	            diffInDays += 1;
-	            //if(isPreviousAfterSunset && mFlow.isBeforeSunset()) diffInDays += 1;
+	            diffInDays += 1; // add a day because the day itself counts as a day
 	            mFlow.setHaflagaDiff(diffInDays);
         	}
         }
